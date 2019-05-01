@@ -7,7 +7,7 @@
      elsif int % 5 == 0
       "Buzz"
     elsif int % 3 == 0 && 5 == 0
-      "FizzBuzz"
+      "nil"
  end
 end 
 
